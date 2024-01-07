@@ -1,12 +1,3 @@
-## Hi there 👋
+# AIStream
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+AIStream is dedicated to providing open-source solutions in order to democratize deep learning and data access. Some of our work includes [Flow-Forecast: A Deep Learning for Time Series Forecasting Framework](), and [Water 2.0]().
